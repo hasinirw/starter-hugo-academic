@@ -35,7 +35,7 @@ organizations:
     url: https://sites.bu.edu/stepplab/hasini-weerathunge-b-s/
 education:
   courses:
-    - course: PhD in Biomedical Engineering
+    - course: PhD in Biomedical Engineering (In Progress)
       institution: Boston University, USA
       year: ""
     - course: MSc in Biomedical Engineering
