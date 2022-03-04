@@ -28,7 +28,7 @@ social:
   - display:
       header: false
     link: https://twitter.com/Hasinirw
-    icon_pack: ai
+    icon_pack: fab
     icon: twitter
 organizations:
   - name: Boston University
