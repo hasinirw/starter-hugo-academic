@@ -43,4 +43,5 @@ design:
   columns: "2"
   background:
     image: ""
+    image_darken: 0.6
 ---
