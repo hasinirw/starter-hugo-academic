@@ -11,25 +11,26 @@ interests:
   - Voice Disorders
   - Computational Modeling
   - Laryngeal Kinematics
-  - and Neuromodulation techniques.
+  - Neuromodulation
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    label: hasiniw@bu.edu
   - display:
       header: false
     link: https://twitter.com/Hasinirw
     icon_pack: fab
     icon: twitter
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=O7q_BygAAAAJ&hl=en
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/hasinirw
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/hasiniw/
 organizations:
   - name: Boston University
     url: https://sites.bu.edu/stepplab/hasini-weerathunge-b-s/
