@@ -1,7 +1,7 @@
 ---
 title: Hasini Weerathunge
 role: PhD Candidate in Biomedical Engineering
-avatar_filename: weerathunge-hasini-1-.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Speech Motor Control, Motor Speech Disorders,
   Voice Disorders, Computational Modeling, Laryngeal Kinematics, and
   Neuromodulation techniques.
