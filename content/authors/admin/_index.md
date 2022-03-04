@@ -3,8 +3,8 @@ title: Hasini Weerathunge
 role: PhD Candidate in Biomedical Engineering
 avatar_filename: avatar.jpg
 bio: My research interests include Speech Motor Control, Motor Speech Disorders,
-  Voice Disorders, Computational Modeling, Laryngeal Kinematics, and
-  Neuromodulation techniques.
+  Voice Disorders, Computational Modeling, Laryngeal Kinematics, Neuromodulation
+  techniques
 interests:
   - Speech Motor Control
   - Motor Speech Disorders
@@ -16,9 +16,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -28,6 +25,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - display:
+      header: false
+    link: https://twitter.com/Hasinirw
+    icon_pack: ai
+    icon: twitter
 organizations:
   - name: Boston University
     url: https://sites.bu.edu/stepplab/hasini-weerathunge-b-s/
