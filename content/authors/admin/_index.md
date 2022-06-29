@@ -53,4 +53,4 @@ I am a speech scientist and a doctoral student in [Stepp Lab for Sensorimotor Re
 
 I am also an electronics engineer by training, having received my B.S. in Electronics and Telecommunication Engineering, and working in the industry prior to joining graduate school. My undergraduate research was focused on objective hearing screening of newborns via automated auditory brain stem responses. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/HasiniWeerathunge_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/hasiniweerathunge_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
