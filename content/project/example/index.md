@@ -14,7 +14,7 @@ authors:
   - Stepp C.E.
   - Zañartu M.
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
 title: "LaDIVA: A Neurocomputatinal Model of Laryngeal Motor Control for Speech
@@ -35,4 +35,4 @@ url_code: ""
 Thus far, a unified computational framework that quantitatively integrates physiologically relevant models of phonation with the neural control of speech has not been developed. Here, we introduce LaDIVA, a novel neurocomputational model with physiologically based laryngeal motor control. We combined the DIVA model (an established neural network model of speech motor control) with the extended body-cover model (a physics-based vocal fold model). LaDIVA can expand the understanding of the physiology of human phonation to enable, for the first time, the investigation of causal effects of neural motor control in the fine structure of the vocal signal.
 
 * Presented at 21st Biennial Madonna Motor Speech Conference, February 16 – 20, 2022, Charleston, SC
-* Manuscript in review (check back for updates!)
+* Manuscript published in [PLoS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010159)
